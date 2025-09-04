@@ -9,7 +9,7 @@ for (int i = 0; i <= 20; i += 2) {
 }
 
 //4.c
-int start = 10;
+(int start = 10;
 
 for (int i = start; i >= 0; i--) {
   println(i);
